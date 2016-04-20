@@ -37,7 +37,7 @@ int main() {
 	std::cout << std::endl;
 	
 	masterfunc();
-
+	 
 	std::system("pause");
 
 	return 0;
