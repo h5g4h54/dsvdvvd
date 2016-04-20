@@ -7,6 +7,7 @@ int specialFunc(int & inp) {
 
 int masterfunc(void) {
 	std::cout <<"This is the masterfunc" << std::endl;
+
 	return 0;
 }
 
