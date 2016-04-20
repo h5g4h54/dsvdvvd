@@ -21,7 +21,7 @@ int main() {
 	int a=10;
 	std::cout << "Input of 10 gives: " << specialFunc(a) << std::endl;
 	
-	std::vector<int> myvec(300,0); //300 in master
+	std::vector<int> myvec(300,0); //300 in master - ignored conf
 
 	std::default_random_engine generator;
 	std::uniform_int_distribution<int> distribution(1,100);
