@@ -33,7 +33,7 @@ int main() {
 		std::cout << *it << " ";
 		it++;
 	}
-		
+	 	
 	std::cout << std::endl;
 	
 	masterfunc();
@@ -42,3 +42,4 @@ int main() {
 
 	return 0;
 }
+ 
